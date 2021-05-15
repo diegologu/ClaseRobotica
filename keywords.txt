@@ -1,0 +1,2 @@
+SensorDistancia KEYWORD1
+getValorSensado KEYWORD2
